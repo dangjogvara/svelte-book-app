@@ -14,7 +14,7 @@
   </div>
   <h1>Vite + Svelte</h1>
 
-  <div class="card">
+  <div class="card bg-black">
     <Counter />
   </div>
 
